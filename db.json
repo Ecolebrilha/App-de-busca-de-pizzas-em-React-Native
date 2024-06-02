@@ -1,0 +1,100 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "title": "Mussarela",
+        "flavor": "Pizza de mussarela",
+        "ingredients": "Molho de tomate, camada dupla de mussarela e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 20.00, R$ 23.00, R$ 25.00"
+      },
+      {
+        "id": 2,
+        "title": "Calabresa",
+        "flavor": "Pizza de calabresa",
+        "ingredients": "Molho de tomate, mussarela, calabresa fatiada, cebola e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 21.00, R$ 24.00, R$ 26.00"
+      },
+      {
+        "id": 3,
+        "title": "Quatro Queijos",
+        "flavor": "Pizza de quatro queijos",
+        "ingredients": "Molho de tomate, camadas de mussarela, provolone, parmessão, gorgonzola e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 23.00, R$ 26.00, R$ 28.00"
+      },
+      {
+        "id": 4,
+        "title": "Brasileira",
+        "flavor": "Pizza brasileira",
+        "ingredients": "Molho de tomate, mussarela, calabresa picada, palmito, champignon, azeitonas e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 25.00, R$ 28.00, R$ 30.00"
+      },
+      {
+        "id": 5,
+        "title": "Portuguesa",
+        "flavor": "Pizza portuguesa",
+        "ingredients": "Molho de tomate, mussarela, presunto, ovos, cebolas, pimentão, azeitona e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 24.00, R$ 27.00, R$ 29.00"
+      },
+      {
+        "id": 6,
+        "title": "Moda da Casa",
+        "flavor": "Pizza da moda da casa",
+        "ingredients": "Molho de tomate, mussarela, carne de sol, tomates em cubos, coentro, cebola, azeitona, catupiry e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 30.00, R$ 33.00, R$ 35.00"
+      },
+      {
+        "id": 7,
+        "title": "Banana com Canela",
+        "flavor": "Pizza de banana com canela",
+        "ingredients": "Mussarela, banana, canela e açúcar",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 25.00, R$ 28.00, R$ 30.00"
+      },
+      {
+        "id": 8,
+        "title": "Chocolate com Morango",
+        "flavor": "Pizza de chocolate com morango",
+        "ingredients": "Creme de leite, lascas de chocolate e morangos",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 30.00, R$ 32.00, R$ 35.00"
+      },
+      {
+        "id": 9,
+        "title": "Marguerita",
+        "flavor": "Pizza de marguerita",
+        "ingredients": "Molho de tomate, mussarela, alho em lascas, tomate cereja, manjericão e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 23.00, R$ 26.00, R$ 28.00"
+      },
+      {
+        "id": 10,
+        "title": "Bacon",
+        "flavor": "Pizza de bacon",
+        "ingredients": "Mussarela, bacon, orégano e azeitona",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 25.00, R$ 28.00, R$ 30.00"
+      },
+      {
+        "id": 11,
+        "title": "Frango com Catupiry",
+        "flavor": "Pizza de frango com catupiry",
+        "ingredients": "Molho de tomate, mussarela, frango, catupiry e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 21.00, R$ 24.00, R$ 26.00"
+      },
+      {
+        "id": 12,
+        "title": "Lombiry",
+        "flavor": "Pizza de lombiry",
+        "ingredients": "Molho de tomate, mussarela, lombo canadense, catupiry e orégano",
+        "sizes": "Pequena (6 fatias), Média (8 fatias), Grande (12 fatias)",
+        "prices": "R$ 28.00, R$ 31.00, R$ 33.00"
+      }
+    ]
+  }
