@@ -11,4 +11,4 @@ npx expo start
 
 npm install -g json-server
 
-json-server --watch db.json --host 192.168.0.104 --port 3001
+json-server --watch db.json --host 192.168.0.101 --port 3001
