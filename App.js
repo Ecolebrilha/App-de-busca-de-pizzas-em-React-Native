@@ -26,7 +26,7 @@ const App = () => {
       return;
     }
     try {
-      const apiUrl = `http://192.168.0.104:3001/pizzas`;
+      const apiUrl = `http://192.168.0.103:3001/pizzas`;
       const response = await fetch(apiUrl);
       const data = await response.json();
       const foundPizza = data.find(pizza => pizza.title.toLowerCase() === pizzaTitle.toLowerCase());
